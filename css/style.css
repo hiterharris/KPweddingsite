@@ -893,4 +893,22 @@ a:hover {
   .info-img {
     width: 100%; } }
 
+    .schedule {
+      text-align: center;
+      font-family: 'Raleway';
+    }
+
+    .event {
+        margin: 8%;
+    }
+
+    .event-title {
+      font-weight: 200;
+      font-size: 36px;
+    }
+    .event-location {
+      font-weight: 200;
+      font-size: 24px;
+    }
+
 /*# sourceMappingURL=style.css.map */
