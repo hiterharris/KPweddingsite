@@ -899,7 +899,8 @@ a:hover {
     padding-bottom: 75%; }
 
   .info-img {
-    width: 100%; } }
+    width: 100%; }
+  }
 
     .schedule {
       text-align: center;
@@ -907,7 +908,7 @@ a:hover {
     }
 
     .event {
-        margin: 8%;
+
     }
 
     .event-title {
@@ -918,5 +919,9 @@ a:hover {
       font-weight: 200;
       font-size: 24px;
     }
+
+.space-graphic {
+  width: 5%;
+}
 
 /*# sourceMappingURL=style.css.map */
