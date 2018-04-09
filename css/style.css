@@ -401,6 +401,11 @@ a:hover {
   border-bottom: 1px solid black;
 }
 
+.info .asterisk {
+    width:100%;
+    font-size: 18px;
+    font-weight: 300; }
+
 .info .hotel-link {
     font-size: 24px; }
 
